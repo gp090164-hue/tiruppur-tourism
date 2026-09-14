@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://spectacular-tulumba-eacac7.netlify.app/sitemap.xml
