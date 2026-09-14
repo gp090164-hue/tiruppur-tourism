@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://spectacular-tulumba-eacac7.netlify.app/sitemap.xml
+Sitemap: https://gp090164-hue.github.io/tiruppur-tourism/sitemap.xml
